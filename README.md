@@ -11,14 +11,3 @@ I am a MERN stack developer and also know C++ and Python. I enjoy competitive pr
 
 
 
-
-
-
-
-
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=MayankMani00)
